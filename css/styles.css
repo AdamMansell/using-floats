@@ -1,0 +1,17 @@
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
+}
+.column {
+  width: 300px;
+  float: left;
+}
+
+.news {
+  text-align: center;
+}
+
+.title {
+  text-align: center;
+}
